@@ -45,4 +45,3 @@ b=float(input("enter number 2"))
 avg=(a+b)/2
 print(avg)
 #complete Datatype concept
-
